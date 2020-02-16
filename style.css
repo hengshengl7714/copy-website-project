@@ -18,6 +18,7 @@ color:white;
 #Welcome{
 color:white;
 left:225px;
+position:relative;
 text-align:center;
 background-color: #5587C9;
 Padding-top:25px;
