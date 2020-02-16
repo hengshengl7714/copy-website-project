@@ -20,9 +20,31 @@ color:white;
 left:225px;
 position:relative;
 text-align:center;
-background-color: #4A94DE;
+background-color: #5587C9;
 Padding-top:25px;
 padding-bottom:200px;
 width:275px;
-
+Border-radius: 2%;
+}
+#button {
+position:relative;
+left:25px;
+bottom:200px;
+margin-top:0px;
+margin-bottom:20px;
+padding: 10px 10px 10px 10px;
+border-radius: 10%;
+background-color: #5587C9;
+color:white;
+border-color:white;
+}
+button:hover {
+    animation-name: background-color;
+    animation-duration: 500ms;
+    animation-fill-mode:forwards;
+  }
+@keyframes background-color{
+  100% {
+    background-color:#8DBCF9 ;
+  }
 }
