@@ -5,7 +5,7 @@ font-size:70px;
 font-weight:bold;
 }
 body{
-     background:linear-gradient(90deg,#0C72B6,#763B9D)
+     background:linear-gradient(90deg,#0C72B6,#763B9D);
     }
 #Education{
 text-align:center;
@@ -17,7 +17,7 @@ color:white;
 }
 #Welcome{
 color:white;
-left:225px;
+left:25px;
 position:relative;
 text-align:center;
 background-color: #5587C9;
@@ -48,3 +48,30 @@ button:hover {
     background-color:#8DBCF9 ;
   }
 }
+#Parent-Register
+{
+text-align:center;
+color:white;
+font-size:15px;
+position:relative;
+bottom:200px;
+right:20px;
+}
+#line {
+text-align:center;
+color:white;
+font-size:15px;
+position:relative;
+bottom:233px;
+left:30px;
+}
+#Student-Register 
+{
+text-align:center;
+color:white;
+font-size:15px;
+position:relative;
+bottom:267px;
+left:85px;  
+}
+
