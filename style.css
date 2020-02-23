@@ -56,6 +56,7 @@ font-size:15px;
 position:relative;
 bottom:200px;
 right:20px;
+text-decoration: none;
 }
 #line {
 text-align:center;
@@ -73,5 +74,53 @@ font-size:15px;
 position:relative;
 bottom:267px;
 left:85px;  
+text-decoration: none;
+}
+#Instruction 
+{
+text-align:center;
+color:white;
+font-size:15px;
+position:relative;
+bottom:245px;
+left:30px;  
+text-decoration: none;
+}
+#Forgot-Password{
+text-align:center;
+color:white;
+font-size:15px;
+position:relative;
+bottom:245px;
+left:30px; 
+text-decoration: none;
+}
+#CaseNEX{
+text-align:center;
+color:white;
+font-size:15px;
+position:relative;
+bottom:185px;
+left:5px; 
+text-decoration: none;
+}
+#slash
+{
+text-align:center;
+color:white;
+font-size:20px;
+position:relative;
+bottom:225px;
+left:40px; 
+}
+#Datacation
+{
+text-align:center;
+color:white;
+font-size:15px;
+position:relative;
+bottom:266px;
+left:80px; 
+text-decoration: none;
 }
 
