@@ -7,35 +7,33 @@ font-weight:bold;
 body{
      background:linear-gradient(90deg,#0C72B6,#763B9D);
     }
-#Education{
+.center{
 text-align:center;
-position:relative;
+position:relative; 
+color:white;
+}
+#Education{
 left:85px;
 bottom:20px;
 margin: -30px 20px 20px 40px;
-color:white;
 }
 #Welcome{
-color:white;
 left:25px;
-position:relative;
-text-align:center;
-background-color: #5587C9;
+background-color: rgba(85, 135, 201,0.4);
 Padding-top:25px;
 padding-bottom:200px;
 width:275px;
 Border-radius: 2%;
 }
 #button {
-position:relative;
 left:25px;
 bottom:200px;
 margin-top:0px;
 margin-bottom:20px;
 padding: 10px 10px 10px 10px;
 border-radius: 10%;
-background-color: #5587C9;
-color:white;
+/*background-color: #5587C9;*/
+background-color: rgba(85, 135, 201,0.4);
 border-color:white;
 }
 button:hover {
@@ -50,75 +48,51 @@ button:hover {
 }
 #Parent-Register
 {
-text-align:center;
-color:white;
 font-size:15px;
-position:relative;
 bottom:200px;
 right:20px;
 text-decoration: none;
 }
 #line {
-text-align:center;
-color:white;
 font-size:15px;
-position:relative;
 bottom:230px;
 left:30px;
 }
 #Student-Register 
 {
-text-align:center;
-color:white;
 font-size:15px;
-position:relative;
 bottom:265px;
 left:85px;  
 text-decoration: none;
 }
 #Instruction 
 {
-text-align:center;
-color:white;
 font-size:15px;
-position:relative;
 bottom:245px;
 left:30px;  
 text-decoration: none;
 }
 #Forgot-Password{
-text-align:center;
-color:white;
 font-size:15px;
-position:relative;
 bottom:245px;
 left:30px; 
 text-decoration: none;
 }
 #CaseNEX{
-text-align:center;
-color:white;
 font-size:15px;
-position:relative;
 bottom:185px;
 left:5px; 
 text-decoration: none;
 }
 #slash
 {
-text-align:center;
-color:white;
 font-size:20px;
-position:relative;
 bottom:225px;
 left:40px; 
 }
 #Datacation
 {
-text-align:center;
-color:white;
 font-size:15px;
-position:relative;
 bottom:266px;
 left:80px; 
 text-decoration: none;
