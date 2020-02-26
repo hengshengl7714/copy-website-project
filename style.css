@@ -3,35 +3,26 @@ text-align: center;
 color:white;
 font-size:70px;
 font-weight:bold;
-position:relative;
-left:25px;
 }
 body{
      background:linear-gradient(90deg,#0C72B6,#763B9D);
     }
 .center{
-text-align:center;
-position:relative; 
+margin-left:auto;
+margin-right:auto;
 color:white;
+text-decoration:none;
 }
 #Education{
-left:100px;
-bottom:20px;
-margin: -30px 20px 20px 40px;
+/*margin-left:auto;*/
+/*margin-right:auto;*/
+text-align:center;
+margin: -45px 20px 30px 200px;
 }
 #Welcome{
-left:25px;
-background-color: rgba(85, 135, 201,0.4);
-Padding-top:25px;
-padding-bottom:200px;
-width:275px;
-Border-radius: 2%;
+text-align:center;
 }
 #button {
-left:25px;
-bottom:200px;
-margin-top:0px;
-margin-bottom:20px;
 padding: 10px 10px 10px 10px;
 border-radius: 10%;
 /*background-color: #5587C9;*/
@@ -51,52 +42,31 @@ button:hover {
 #Parent-Register
 {
 font-size:15px;
-bottom:200px;
-right:20px;
-text-decoration: none;
+
 }
 #line {
 font-size:15px;
-bottom:230px;
-left:30px;
 }
-#Student-Register 
+#Student-Register
 {
 font-size:15px;
-bottom:265px;
-left:85px;  
-text-decoration: none;
 }
-#Instruction 
+#Instruction
 {
 font-size:15px;
-bottom:245px;
-left:30px;  
-text-decoration: none;
 }
 #Forgot-Password{
 font-size:15px;
-bottom:245px;
-left:30px; 
-text-decoration: none;
 }
 #CaseNEX{
 font-size:15px;
-bottom:185px;
-left:5px; 
-text-decoration: none;
 }
 #slash
 {
 font-size:20px;
-bottom:225px;
-left:40px; 
 }
 #Datacation
 {
-font-size:15px;
-bottom:266px;
-left:80px; 
-text-decoration: none;
+font-size:15px;;
 }
 
