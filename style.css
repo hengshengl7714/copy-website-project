@@ -6,6 +6,7 @@ font-weight:bold;
 }
 body{
      background:linear-gradient(90deg,#0C72B6,#763B9D);
+     text-align:center;
     }
 .center{
 margin-left:auto;
@@ -25,6 +26,7 @@ text-align:center;
 font-size:25px;
 }
 #button {
+text-align:center;
 padding: 10px 10px 10px 10px;
 border-radius: 10%;
 /*background-color: #5587C9;*/
@@ -45,12 +47,14 @@ button:hover {
 {
 margin-left:auto;
 margin-right:auto;
+text-align:center;
 }
 #line {
+display:inline;
 }
 #Student-Register
 {
-
+display:inline;
 }
 #Instruction
 {
@@ -73,8 +77,7 @@ margin-right:auto;
 margin-left:auto;
 margin-right:auto;
 background-color: rgba(85, 135, 201,0.4);
-Padding-top:25px;
-padding-bottom:100px;
-width:275px;
-Border-radius: 2%;
+height:250px;
+width:300px;
+border-radius: 2%;
 }
