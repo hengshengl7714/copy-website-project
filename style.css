@@ -19,7 +19,7 @@ font-size:15px;
 /*margin-left:auto;*/
 /*margin-right:auto;*/
 text-align:center;
-margin: -45px 20px 30px 200px;
+margin: -35px 20px 30px 200px;
 }
 #Welcome{
 text-align:center;
@@ -30,8 +30,9 @@ text-align:center;
 padding: 10px 10px 10px 10px;
 border-radius: 10%;
 /*background-color: #5587C9;*/
-background-color: rgba(85, 135, 201,0.4);
+background-color: rgba(85, 135, 201,0.1);
 border-color:white;
+margin-bottom: 20px;
 }
 button:hover {
     animation-name: background-color;
@@ -58,26 +59,26 @@ display:inline;
 }
 #Instruction
 {
+font-size:15px;
 }
 #Forgot-Password{
+font-size:15px;
 }
 #CaseNEX{
 }
 #slash
 {
+display:inline;
 }
 #Datacation
 {
+display:inline;
 }
 #border{
-/*width: 300px;*/
-/*border: 15px solild;*/
-/*padding: 50px;*/
-/*margin: 20px;*/
 margin-left:auto;
 margin-right:auto;
-background-color: rgba(85, 135, 201,0.4);
+background-color: rgba(85, 135, 201,0.3);
 height:250px;
-width:300px;
+width:325px;
 border-radius: 2%;
 }
