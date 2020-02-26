@@ -12,6 +12,7 @@ margin-left:auto;
 margin-right:auto;
 color:white;
 text-decoration:none;
+font-size:15px;
 }
 #Education{
 /*margin-left:auto;*/
@@ -21,6 +22,7 @@ margin: -45px 20px 30px 200px;
 }
 #Welcome{
 text-align:center;
+font-size:25px;
 }
 #button {
 padding: 10px 10px 10px 10px;
@@ -41,32 +43,38 @@ button:hover {
 }
 #Parent-Register
 {
-font-size:15px;
-
+margin-left:auto;
+margin-right:auto;
 }
 #line {
-font-size:15px;
 }
 #Student-Register
 {
-font-size:15px;
+
 }
 #Instruction
 {
-font-size:15px;
 }
 #Forgot-Password{
-font-size:15px;
 }
 #CaseNEX{
-font-size:15px;
 }
 #slash
 {
-font-size:20px;
 }
 #Datacation
 {
-font-size:15px;;
 }
-
+#border{
+/*width: 300px;*/
+/*border: 15px solild;*/
+/*padding: 50px;*/
+/*margin: 20px;*/
+margin-left:auto;
+margin-right:auto;
+background-color: rgba(85, 135, 201,0.4);
+Padding-top:25px;
+padding-bottom:100px;
+width:275px;
+Border-radius: 2%;
+}
